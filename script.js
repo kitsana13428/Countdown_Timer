@@ -19,7 +19,7 @@ function countdown() { /* ฟังก์ชั่นคำนวณเวลา
     daysEl.innerHTML = days;
     hoursEl.innerHTML = hours;
     minsEl.innerHTML = mins;
-    seconds.innerHTML = seconds;
+    secondsEl.innerHTML = seconds;
 
     console.log(days, hours, mins, seconds);
 }
